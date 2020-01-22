@@ -25,4 +25,5 @@ else:
 
 //   Kas šeit ir pa kļūdu?
 // tu ko tagat dari?
+// kas notiek?
 
