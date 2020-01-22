@@ -23,3 +23,5 @@ if (c==138):
 else:
     print("stulbenis...;)")
 
+//   Kas šeit ir pa kļūdu?
+
