@@ -24,4 +24,5 @@ else:
     print("stulbenis...;)")
 
 //   Kas šeit ir pa kļūdu?
+// tu ko tagat dari?
 
