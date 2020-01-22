@@ -3,7 +3,7 @@ a = input("1+1=:")
 print("Tu ievadiji: " + a)
 
 if (a==2):
-  print(" viss pareizi")
+  print(" yee viss pareizi")
 else:
   print("nepareizi")
 
